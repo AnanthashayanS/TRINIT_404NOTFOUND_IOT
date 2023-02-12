@@ -1,5 +1,6 @@
 # TRINIT_404NOTFOUND_IOT
-To Design a driver assistance system that reminds drivers to follow eco-driving principles for energy-efficient driving  through reminders when eco-driving principles are violated."/n"
+To Design a driver assistance system that reminds drivers to follow eco-driving principles for energy-efficient driving  through reminders when eco-driving principles are violated.
+
 This Repo consist of the below Following:
 1.BlockDiagram
 2.Circuit Diagrams
