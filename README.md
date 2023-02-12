@@ -5,7 +5,7 @@ This Repo consist of the below Following:
 
 1.BlockDiagram
 
-2.Circuit Diagrams
+2.Hardware Implementation
 
 3.Simulation Model
 
