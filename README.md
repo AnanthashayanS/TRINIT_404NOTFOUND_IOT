@@ -22,6 +22,7 @@ environment and the economy.
 This Repo consist of the below Following:
 
 # 1.Concept Map
+![Concept map](https://user-images.githubusercontent.com/93333899/218292623-5871823a-931f-42e4-b1cf-55d79a232c43.jpeg)
 
 2.Hardware Implementation
 
